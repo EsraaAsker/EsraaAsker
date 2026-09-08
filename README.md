@@ -7,7 +7,7 @@ I build reproducible machine-learning and analytics systems that turn real-world
 ### Featured work
 
 - [OIBSIP — Data Science Portfolio](https://github.com/EsraaAsker/OIBSIP): classification, EDA, regression, NLP, and model evaluation projects.
-- [Research Portfolio](https://github.com/EsraaAsker/research-portfolio): curated rehabilitation AI, wearable sensing, Error-1 diagnostics, and leakage-safe evaluation outputs.
+- [Master's Practical ML Projects](https://github.com/EsraaAsker/research-portfolio): wearable sensing, Error-1 diagnostics, cross-dataset workflows, and leakage-safe evaluation projects.
 - [KneE-PAD Multimodal ML](https://github.com/EsraaAsker/knee-pad-multimodal-ml): multimodal EMG–IMU learning for rehabilitation exercise recognition and quality assessment.
 - [Time-Series Leakage Audit](https://github.com/EsraaAsker/time-series-leakage-audit): reproducible evaluation checks for overlapping-window time-series ML.
 - [Squat Error Diagnostics](https://github.com/EsraaAsker/squat-error-diagnostics): evidence-driven analysis of exercise-quality error patterns.
