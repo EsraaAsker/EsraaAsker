@@ -11,6 +11,10 @@ I build reproducible machine-learning and analytics systems that turn real-world
 - [KneE-PAD Multimodal ML](https://github.com/EsraaAsker/knee-pad-multimodal-ml): multimodal EMG–IMU learning for rehabilitation exercise recognition and quality assessment.
 - [Time-Series Leakage Audit](https://github.com/EsraaAsker/time-series-leakage-audit): reproducible evaluation checks for overlapping-window time-series ML.
 - [Squat Error Diagnostics](https://github.com/EsraaAsker/squat-error-diagnostics): evidence-driven analysis of exercise-quality error patterns.
+- [KneE-PAD Correct/Wrong Classification](https://github.com/EsraaAsker/kneepad-correct-wrong-classification): hierarchical quality assessment with fold-level metrics and confusion matrices.
+- [Error-1 Clustering and Task Restructuring](https://github.com/EsraaAsker/error1-clustering-task-restructuring): train-only clustering and alternative task formulations.
+- [Cross-Dataset Generalization](https://github.com/EsraaAsker/cross-dataset-generalization): practical compatibility and generalization workflows across movement datasets.
+- [Rehabilitation ML Dashboard](https://github.com/EsraaAsker/rehabilitation-ml-dashboard): interactive Streamlit dashboard for model comparisons and confusion matrices.
 - [Graduation Project](https://github.com/EsraaAsker/GraduationProject): applied software and data project work.
 
 ### Technical focus
