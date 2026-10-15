@@ -1,31 +1,51 @@
-# Hi, I'm Esraa Asker
+<div align="center">
+  <h1>Esraa Asker</h1>
+  <p><strong>Data Scientist · Machine Learning Engineer</strong></p>
+  <p>Building practical, reproducible machine-learning systems—from wearable sensing to industrial vision.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/esraa-mahmoud-276035240"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/EsraaAsker"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+</div>
 
-## Data Scientist | Machine Learning Engineer | AI Engineer
+---
 
-I build reproducible machine-learning and analytics systems that turn real-world data into clear, testable decisions. My work spans tabular modeling, NLP, time-series evaluation, sensor intelligence, and rehabilitation AI.
+## About
 
-### Featured work
+I work across data science and applied machine learning, with a focus on trustworthy evaluation, time-series analysis, wearable-sensor intelligence, and rehabilitation AI. I value reproducible workflows, leakage-safe validation, and clear reporting of what results do—and do not—show.
 
-- [OIBSIP — Data Science Portfolio](https://github.com/EsraaAsker/OIBSIP): classification, EDA, regression, NLP, and model evaluation projects.
-- [Master's Practical ML Projects](https://github.com/EsraaAsker/research-portfolio): wearable sensing, Error-1 diagnostics, cross-dataset workflows, and leakage-safe evaluation projects.
-- [KneE-PAD Multimodal ML](https://github.com/EsraaAsker/knee-pad-multimodal-ml): multimodal EMG–IMU learning for rehabilitation exercise recognition and quality assessment.
-- [Time-Series Leakage Audit](https://github.com/EsraaAsker/time-series-leakage-audit): reproducible evaluation checks for overlapping-window time-series ML.
-- [Squat Error Diagnostics](https://github.com/EsraaAsker/squat-error-diagnostics): evidence-driven analysis of exercise-quality error patterns.
-- [KneE-PAD Correct/Wrong Classification](https://github.com/EsraaAsker/kneepad-correct-wrong-classification): hierarchical quality assessment with fold-level metrics and confusion matrices.
-- [Error-1 Clustering and Task Restructuring](https://github.com/EsraaAsker/error1-clustering-task-restructuring): train-only clustering and alternative task formulations.
-- [Cross-Dataset Generalization](https://github.com/EsraaAsker/cross-dataset-generalization): practical compatibility and generalization workflows across movement datasets.
-- [Rehabilitation ML Dashboard](https://github.com/EsraaAsker/rehabilitation-ml-dashboard): interactive Streamlit dashboard for model comparisons and confusion matrices.
-- [Graduation Project](https://github.com/EsraaAsker/GraduationProject): applied software and data project work.
+## Areas of focus
 
-### Technical focus
+- **Trustworthy ML evaluation** — leakage-aware splits, validation design, and evidence-linked reporting.
+- **Time-series and wearable sensing** — participant-independent modeling with EMG and IMU data.
+- **Industrial anomaly detection** — PatchCore-style visual inspection on MVTec AD.
+- **Applied data science** — exploratory analysis, classification, regression, and NLP.
 
-`Python` `pandas` `NumPy` `scikit-learn` `PyTorch` `TensorFlow` `NLP` `Computer Vision` `Time-Series ML` `Feature Engineering` `Model Evaluation` `Data Visualization` `SQL` `Git/GitHub`
+## Selected projects
 
-### What I value
+- **[KneE-PAD Multimodal ML](https://github.com/EsraaAsker/knee-pad-multimodal-ml)** — CNN–Transformer models for combining wearable EMG and IMU signals, with participant-independent evaluation workflows.
+- **[AI Quality Inspection](https://github.com/EsraaAsker/ai-quality-inspection)** — CPU-compatible PatchCore-style inspection for MVTec AD `metal_nut`; the audited run reports image AUROC **0.950** and pixel AUROC **0.905**.
+- **[Time-Series Leakage Audit](https://github.com/EsraaAsker/time-series-leakage-audit)** — practical checks for data leakage and model-selection errors in overlapping-window ML.
+- **[Evidence-Aware ML Evaluation](https://github.com/EsraaAsker/evidence-aware-ml-evaluation)** — a traceable structure connecting experiment claims to metrics, protocols, and artifacts.
+- **[Research Portfolio](https://github.com/EsraaAsker/research-portfolio)** — selected projects in rehabilitation ML, sensor analysis, and cross-dataset evaluation.
+- **[OIBSIP Data Science Portfolio](https://github.com/EsraaAsker/OIBSIP)** — applied projects across EDA, classification, regression, and NLP.
 
-Leakage-safe validation, interpretable features, honest metrics, clean documentation, and practical deployment paths. Every portfolio project includes a focused README, reproducible code, and an explicit evaluation workflow.
+## Tools
 
-### Connect
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img alt="scikit--learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+</p>
 
-- LinkedIn: [Esraa Mahmoud](https://www.linkedin.com/in/esraa-mahmoud-276035240)
-- GitHub: [@EsraaAsker](https://github.com/EsraaAsker)
+**Working principles:** reproducibility · leakage-safe evaluation · evidence-first reporting · transparent limitations
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/esraa-mahmoud-276035240)
+- [GitHub projects](https://github.com/EsraaAsker?tab=repositories)
